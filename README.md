@@ -13,3 +13,5 @@ making another change to the file
 Trying the thing again
 
 a change
+
+the other change
