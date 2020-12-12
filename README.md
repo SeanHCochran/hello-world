@@ -4,5 +4,5 @@ Initial Repo for GitHub
 
 This is the initial edit to this file
 
-
-another change
+making test changes
+these are all test changes that should be made if we are doing the git commands correctly
